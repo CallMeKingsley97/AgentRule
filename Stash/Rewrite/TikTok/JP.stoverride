@@ -1,5 +1,5 @@
 name: TikTok解锁
-desc: 解锁地区限制
+desc: 解锁地区限制 日本
 
 http:
   mitm:

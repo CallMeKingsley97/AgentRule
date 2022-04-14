@@ -28,3 +28,5 @@ KP 朝鲜
 TW 台湾
 
 HK 香港
+
+[最全地区说明,可以自行修改](https://github.com/CallMeKingsley97/AgentRule/blob/main/Stash/Rewrite/TikTok/TikTok_Region.jpg)

@@ -9,3 +9,5 @@ Personal Agent Rule Repository
 [@yichahucha](https://github.com/yichahucha)
 
 [@Infatuation-Fei](https://github.com/Infatuation-Fei)
+
+[@Tartarus2014](https://github.com/Tartarus2014)
